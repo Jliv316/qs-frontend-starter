@@ -414,7 +414,6 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    debugger;
 	    return "https://qs-express316.herokuapp.com";
 	  }
 	};
